@@ -1,4 +1,4 @@
- <h1>Hotel Management System</h1>
+ <h1>Hotel Management System - Aryan Neupane</h1>
     <p>This Java application is a simple Hotel Management System that interacts with a MySQL database to perform CRUD operations. It allows users to reserve rooms, view reservations, retrieve room numbers, update reservations, and delete reservations.</p>
     
     <h2>Prerequisites</h2>
